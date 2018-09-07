@@ -1,0 +1,44 @@
+.modal{
+	width: 700px;
+	transform: rotate(-20deg);
+	z-index: 1;
+	position: absolute;
+	top: 10%;
+	left: 20%;
+}
+.pap{
+	background-color:rgba(0, 0, 0, 0.4);
+}
+h3{
+	font-size: 70px;
+	text-align: center;
+	margin-bottom: -15px;
+}
+.modal__inside{
+	border: 20px grey solid;
+	border-radius: 30px;
+	position: relative;
+	background-color: white;
+}
+span{
+	font-weight: bold;
+	font-weight: underline;
+	text-decoration: underline;
+}
+.exit{
+	width: 32px;
+	height: 32px;
+	position: absolute;
+	top: -25px;
+	right: -20px;
+}
+.warning{
+	width: 120px;
+	height: 120px;
+	position: absolute;
+	top: 60px;
+	right: 40px;
+}
+.modal__inside > div{
+	width: 500px;
+}

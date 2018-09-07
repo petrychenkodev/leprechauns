@@ -1,0 +1,29 @@
+.header{
+	width: 100vw;
+	height: 100px;
+	background-color: purple;
+	position: fixed;
+	top: 0;
+}
+.main{
+	width: 100vw;
+	height: 50vh;
+	background-color: white;
+}
+.main2{
+	width: 100vw;
+	height: 50vh;
+	background-color: grey;
+}
+.main3{
+	width: 100vw;
+	height: 50vh;
+	background-color: black;
+}
+.footer{
+	width: 100vw;
+	height: 100px;
+	background-color: purple;
+	position: fixed;
+	bottom: 0;
+}
